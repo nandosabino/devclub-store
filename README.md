@@ -6,7 +6,7 @@ Uma loja online simples criada para prática de UI/UX, e-commerce estático ou d
 
 ## 🖼️ Preview
 
-![Preview da loja](./public/preview.png)
+![Preview da loja](img/Preview.png)
 
 ---
 
